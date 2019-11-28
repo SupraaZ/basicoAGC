@@ -16,6 +16,11 @@ public class BasicoAGC {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        cadenas();
+    }
+
+    private static void cadenas() {
+        System.out.println("Mi nombre es Adrián Granero");
     }
     
 }
