@@ -16,7 +16,15 @@ public class BasicoAGC {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        numerico();
         cadenas();
+
+    }
+
+    private static void numerico() {
+        System.out.println("Valor numerico esperado");
+        //Aquí se ubicará la operación númerica.
+        
     }
 
     private static void cadenas() {
