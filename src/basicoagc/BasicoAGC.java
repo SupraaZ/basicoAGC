@@ -16,6 +16,15 @@ public class BasicoAGC {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        logico(7);
     }
-    
+    private static void logico (int a){
+        if (a < 10){
+            System.out.println(a + " Es menor que 10");
+        }
+        else{
+            System.out.println(a + "Es mayor que 10");
+                 
+        }
+    }
 }
